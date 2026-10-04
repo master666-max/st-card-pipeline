@@ -1,0 +1,12 @@
+# 按运行时会生成什么列，不是语言模板
+__pycache__/
+*.pyc
+out/
+_out/
+attic/
+*_dummy*
+.dummy/
+*.log
+*.pid
+判卷-*.json
+映射.json
